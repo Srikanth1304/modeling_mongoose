@@ -1,4 +1,4 @@
-# Simple express demo
+# Simple Modeling using Mongoose demo
 
 > Express: fast, unopinionated, minimalist web framework for Node.js
 
@@ -8,4 +8,4 @@ Check out the [express documentation](https://expressjs.com/) for more informati
 
 In this repo, Some basic modeling done using mongoose, On hospital management, todos, economic in models folder.
 Mongoose are eligant mongodb object modeling framework, Done on Stackblitz.
-Use eraser.io for flow representation, if not try out layout the modeling how you want to see db. So fun of using it.
+Use eraser.io for flow representation, if not try out layout the modeling how you want to see db. So fun of learning it.
